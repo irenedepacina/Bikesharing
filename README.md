@@ -27,3 +27,6 @@ Based on the results, convincing a group of investors to start in Dos Moines, Io
 Two additional visualizations that can be performed with the given dataset:
 1. The avaverage distance traveled for all riders for each week of the day.
 2. The average distance traveled for each type of user for each week of the day.
+
+
+[https://public.tableau.com/profile/irene.depacina#!/vizhome/bikesharing_Challenge_16124004875780/BikeRideAlong?publish=yes](LINK GOES HERE)

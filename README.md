@@ -5,19 +5,19 @@ The purpose of this analysis was to convince investors that a bike-sharing progr
 
 ## Results 
 The following visualizations were used in my Tableau Story. Included are a description of the results of each visualization.
-1. image
+1. !()[https://github.com/irenedepacina/Bikesharing/blob/main/Resources/Checkout%20Time%20for%20Users.png]
 - The length of time the bikes are checked out for all riders. Based on the results, as the day goes by, users tend to check after an extended period of time. We see an incline until hour 5 when we start to see an decline.
-2. image
+2. !()[https://github.com/irenedepacina/Bikesharing/blob/main/Resources/Checkout%20Time%20by%20Gender.png]
 - The length of time the bikes are checked out for all genders. Similar to the visualization above, as the day goes by, users tend to check after an extended period of time. We see an incline until hour 5 when we start to see an decline.
-3. image
+3. !()[https://github.com/irenedepacina/Bikesharing/blob/main/Resources/Trips%20by%20Weekday%20Per%20Hour.png]
 - The number of trips taken by the hour for each day of the week for all riders. Based on the results, we can see that the peak hours are 7am and 5-7pm on weekdays, and 10am to 6pm on Saturdays. 
-4. image
+4. !()[https://github.com/irenedepacina/Bikesharing/blob/main/Resources/Trips%20by%20Gender%20(Weekday%20per%20Hour).png]
 - The number of trips taken by the hour for each day of the week for all riders. Based on the results, majority of the bikers in the bike sharing program are male. 
-5. image
+5. !()[https://github.com/irenedepacina/Bikesharing/blob/main/Resources/Users%20Trips%20by%20Gender%20by%20Weekday.png]
 - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender. Based on the results, majority of the bikers in the bike sharing program are subscribers.
-6. image
+6. !()[https://github.com/irenedepacina/Bikesharing/blob/main/Resources/August%20Peak%20Hours.png]
 - The August Peak hours. Based on the visualization, the hours the generate most riders are 5pm followed by 6pm and 7am.
-7. image
+7. !()[https://github.com/irenedepacina/Bikesharing/blob/main/Resources/Top%20Starting%20Locations.png]
 - The top starting points in New York City. The top locations are in Soho, an area that is drawns in a lot of students and tourists. 
 
 ## Summary 

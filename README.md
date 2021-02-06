@@ -29,4 +29,4 @@ Two additional visualizations that can be performed with the given dataset:
 2. The average distance traveled for each type of user for each week of the day.
 
 
-[https://public.tableau.com/profile/irene.depacina#!/vizhome/bikesharing_Challenge_16124004875780/BikeRideAlong?publish=yes]
+[Link to dashboard] (https://public.tableau.com/profile/irene.depacina#!/vizhome/bikesharing_Challenge_16124004875780/BikeRideAlong?publish=yes)

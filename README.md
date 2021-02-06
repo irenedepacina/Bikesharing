@@ -6,9 +6,9 @@ The purpose of this analysis was to convince investors that a bike-sharing progr
 ## Results 
 The following visualizations were used in my Tableau Story. Included are a description of the results of each visualization.
 1. ![](https://github.com/irenedepacina/Bikesharing/blob/main/Resources/Checkout%20Time%20for%20Users.png)
-- The length of time the bikes are checked out for all riders. Based on the results, as the day goes by, users tend to check after an extended period of time. We see an incline until hour 5 when we start to see an decline.
+- The length of time the bikes are checked out for all riders. Based on the results, as the day goes by, users tend to check in after an extended period of time. We see an incline until hour 5. Afterwards, we start to see a decline.
 2. ![](https://github.com/irenedepacina/Bikesharing/blob/main/Resources/Checkout%20Time%20by%20Gender.png)
-- The length of time the bikes are checked out for all genders. Similar to the visualization above, as the day goes by, users tend to check after an extended period of time. We see an incline until hour 5 when we start to see an decline.
+- The length of time the bikes are checked out for all genders. Similar to the visualization above, as the day goes by, users tend to check in after an extended period of time. We see an incline up until hour 5, after that point we begin to see a decline.
 3. ![](https://github.com/irenedepacina/Bikesharing/blob/main/Resources/Trips%20by%20Weekday%20Per%20Hour.png)
 - The number of trips taken by the hour for each day of the week for all riders. Based on the results, we can see that the peak hours are 7am and 5-7pm on weekdays, and 10am to 6pm on Saturdays. 
 4. ![](https://github.com/irenedepacina/Bikesharing/blob/main/Resources/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
@@ -22,7 +22,7 @@ The following visualizations were used in my Tableau Story. Included are a descr
 
 ## Summary 
 
-Based on the results, convincing a group of investors to start in Dos Moines, Iowa based on the success in New York City is difficult. New York City sees thousands of tourists in a given year in addition to their permanent residents. However, if a bike sharing program were to exist in Dos Moines, we can expect that the peak hours are 7am and 5pm. This is valid assumption because it is a time when people are commuting to and from work. This is a great alternative for commuters. In addition, we can assume that most of the riders will be male and subscribers based on the New York City results. Lastly, we can see the number of rides increase in August since there are students on break from school, tourists, and nice weather.
+Based on the results, convincing a group of investors to start in Dos Moines, Iowa based on the success in New York City is difficult. New York City sees thousands of tourists in a given year in addition to their permanent residents. It is difficult to conclude that Dos Moines will see the same results as New York given the difference in population and tourist attractions. However, if a bike sharing program were to exist in Dos Moines, we can expect that the peak hours are 7am and 5pm. This is valid assumption because it is a timeframe when people are commuting to and from work. Biking is a great alternative for commuters. In addition, we can assume that most of the riders will be male and subscribers based on the New York City results. Lastly, we can see a rise in the number of rides in August since there are students on break from school, tourists, and nice weather.
 
 Two additional visualizations that can be performed with the given dataset:
 1. The avaverage distance traveled for all riders for each week of the day.

@@ -21,7 +21,6 @@ The following visualizations were used in my Tableau Story. Included are a descr
 - The top starting points in New York City. The top locations are in Soho, an area that is drawns in a lot of students and tourists. 
 
 ## Summary 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 Based on the results, convincing a group of investors to start in Dos Moines, Iowa based on the success in New York City is difficult. New York City sees thousands of tourists in a given year in addition to their permanent residents. However, if a bike sharing program were to exist in Dos Moines, we can expect that the peak hours are 7am and 5pm. This is valid assumption because it is a time when people are commuting to and from work. This is a great alternative for commuters. In addition, we can assume that most of the riders will be male and subscribers based on the New York City results. Lastly, we can see the number of rides increase in August since there are students on break from school, tourists, and nice weather.
 
